@@ -9,7 +9,7 @@ int main () {
 		n++;
 		
 	}
-	printf ("\n so nguyen duong n nho nhat sao cho 1+2+... +n <10000 la = %d ", n);
+	printf ("\n so nguyen duong n nho nhat sao cho 1+2+... +n >10000 la = %d ", n);
 	printf ("\n tong cac so tu 1 den n la = %d", tong );
 }
 
